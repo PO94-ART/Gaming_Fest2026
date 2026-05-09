@@ -802,10 +802,14 @@ button:hover{
 		color: #ff3c5f;	
 	}
 
+	.image_event_details{
+		padding: 0;
+	}
+
 	.image_event_details img{
 		width: 100%;
 		height: auto;
-		display: block;
+		object-fit: contain;
 	}
 
 	.button h3 a{
