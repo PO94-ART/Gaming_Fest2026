@@ -299,6 +299,13 @@ main{
   justify-content: space-around;
 }
 
+.left p,
+.right p{
+	font-family: 'RedRose';
+	font-size: 24px;
+	color: #ff3c5f;	
+}
+
 ul li{
 	font-family: 'RedRose';
 	font-size: 20px;
